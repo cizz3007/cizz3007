@@ -1,11 +1,10 @@
 ---
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+title: GitHub 시작
+description: 물욕이나 세속적인 욕심이 아닌, 순수한 열정으로 할 수 있게 스스로 즐기자.
 categories:
- - tutorial
+ - diary
 tags:
 ---
-
 > NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
 
 <!-- more -->
