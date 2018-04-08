@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="387">
-                <caret line="211" column="3" lean-forward="true" selection-start-line="211" selection-start-column="3" selection-end-line="211" selection-end-column="3" />
+              <first_editor relative-caret-position="1062">
+                <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -177,9 +177,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,6 +315,7 @@
       <workItem from="1523193382539" duration="3449000" />
       <workItem from="1523197599635" duration="1620000" />
       <workItem from="1523199685299" duration="1091000" />
+      <workItem from="1523200919539" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1523193589803</created>
@@ -362,7 +363,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18014000" />
+    <option name="totallyTimeSpent" value="18779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -380,7 +381,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297062" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -809,8 +810,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="387">
-            <caret line="211" column="3" lean-forward="true" selection-start-line="211" selection-start-column="3" selection-end-line="211" selection-end-column="3" />
+          <first_editor relative-caret-position="1062">
+            <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
