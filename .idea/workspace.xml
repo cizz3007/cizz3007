@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781d67d6-164c-436f-853a-e389dedca5c0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-04-08-markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-08-markdown.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="477">
-                <caret line="230" column="21" selection-start-line="230" selection-start-column="21" selection-end-line="230" selection-end-column="21" />
+              <first_editor relative-caret-position="387">
+                <caret line="211" column="3" lean-forward="true" selection-start-line="211" selection-start-column="3" selection-end-line="211" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -167,7 +166,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="727" />
     <option name="y" value="24" />
     <option name="width" value="1444" />
@@ -315,7 +314,7 @@
       <workItem from="1523189233376" duration="3419000" />
       <workItem from="1523193382539" duration="3449000" />
       <workItem from="1523197599635" duration="1620000" />
-      <workItem from="1523199685299" duration="663000" />
+      <workItem from="1523199685299" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1523193589803</created>
@@ -363,11 +362,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17586000" />
+    <option name="totallyTimeSpent" value="18014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -811,8 +809,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="477">
-            <caret line="230" column="21" selection-start-line="230" selection-start-column="21" selection-end-line="230" selection-end-column="21" />
+          <first_editor relative-caret-position="387">
+            <caret line="211" column="3" lean-forward="true" selection-start-line="211" selection-start-column="3" selection-end-line="211" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
