@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+              <first_editor relative-caret-position="527">
+                <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,7 +162,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="727" />
     <option name="y" value="24" />
     <option name="width" value="1444" />
@@ -308,7 +308,7 @@
       <workItem from="1521978156387" duration="3307000" />
       <workItem from="1522296094916" duration="1149000" />
       <workItem from="1523189233376" duration="3419000" />
-      <workItem from="1523193382539" duration="2523000" />
+      <workItem from="1523193382539" duration="2924000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1523193589803</created>
@@ -356,7 +356,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14377000" />
+    <option name="totallyTimeSpent" value="14778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -659,8 +659,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+          <first_editor relative-caret-position="527">
+            <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
           </first_editor>
           <second_editor />
         </state>
