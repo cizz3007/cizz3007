@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781d67d6-164c-436f-853a-e389dedca5c0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-12-24-categories.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-12-24-elements.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-04-08-markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-08-markdown.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="113">
-                <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -33,7 +30,9 @@
         <entry file="file://$PROJECT_DIR$/_posts/2013-12-26-images.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="126">
+                <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="49" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -167,7 +166,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="727" />
     <option name="y" value="24" />
     <option name="width" value="1444" />
@@ -314,7 +313,7 @@
       <workItem from="1522296094916" duration="1149000" />
       <workItem from="1523189233376" duration="3419000" />
       <workItem from="1523193382539" duration="3449000" />
-      <workItem from="1523197599635" duration="853000" />
+      <workItem from="1523197599635" duration="1620000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㅇ">
       <created>1523193589803</created>
@@ -362,11 +361,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16156000" />
+    <option name="totallyTimeSpent" value="16923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -646,14 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-26-images.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-02-16-Mathjax-with-jekyll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -748,11 +738,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-26-images.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="113">
-            <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
