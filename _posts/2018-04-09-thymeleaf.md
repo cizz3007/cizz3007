@@ -2,13 +2,13 @@
 title: thymeleaf 문법
 date: 2018-04-09 19:00:00
 description: <center>Thymeleaf 문법 1</center>
-
 categories:
 - 타임리프
 - SYNTAX
 - THYMELEAF
-
-tags:THYMELEAF, SYNTAX
+tags:
+- THYMELEAF
+- SYNTAX
 
 ---
 
