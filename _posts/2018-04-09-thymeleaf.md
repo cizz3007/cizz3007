@@ -1,7 +1,7 @@
 ---
 title: thymeleaf 문법
 date: 2018-04-09 19:00:00
-description: <center>Thymeleaf 문법</center>
+description: <center>Thymeleaf 문법 1</center>
 
 categories:
 - 타임리프
@@ -17,6 +17,7 @@ tags:THYMELEAF, SYNTAX
 
 > 스프링부트 + thymeleaf로 작업 중인데, 작업하면서 잊지 않기 위해 기록해둔다. 
 템플릿엔진 언어 중 하나인 타임리프를 사용하기 위해 아래와 같이 해주자. html태그에 xmlns:th="http://www.thymeleaf.org"를 추가해주고, /로 테그를 잘 닫아주자.
+
 ```
 <!DOCTYPE HTML>
 <html xmlns:th="http://www.thymeleaf.org">
