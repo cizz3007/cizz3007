@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1f3fe7f-5e77-474b-ba23-962e8b748d5c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-09-thymeleaf2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-09-thymeleaf2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-10-thymeleaf2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-10-thymeleaf2.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
+              <first_editor relative-caret-position="-2856">
                 <caret line="12" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
@@ -27,12 +26,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-04-09-thymeleaf2.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-thymeleaf2.md">
+      <file leaf-file-name="2018-04-10-thymeleaf2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-10-thymeleaf2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <first_editor relative-caret-position="340">
+                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -43,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-thymeleaf.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="12" selection-end-column="3" />
+              <first_editor relative-caret-position="-21">
+                <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -134,6 +133,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>esca</find>
+      <find>escape</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -144,6 +149,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-04-08-markdown.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-09-thymeleaf.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-09-thymeleaf2.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-10-thymeleaf2.md" />
       </list>
     </option>
   </component>
@@ -261,12 +267,12 @@
       <workItem from="1523269414839" duration="105000" />
       <workItem from="1523269691314" duration="231000" />
       <workItem from="1523269943277" duration="326000" />
-      <workItem from="1523322143059" duration="10540000" />
+      <workItem from="1523322143059" duration="11077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12363000" />
+    <option name="totallyTimeSpent" value="12900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -379,7 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-thymeleaf2.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-10-thymeleaf2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2465">
@@ -663,31 +669,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-thymeleaf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-21">
+            <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-markdown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
+          <first_editor relative-caret-position="-2856">
             <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-thymeleaf.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-10-thymeleaf2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="12" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-thymeleaf2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <first_editor relative-caret-position="340">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>
