@@ -382,9 +382,13 @@ disqus:
   enable: false
   shortname:
   count: true
+  hide: false
+  layout: default
+  comments: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: false
+
+ # other options
 
 # Hypercomments
 #hypercomments_id:
