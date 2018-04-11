@@ -13,5 +13,7 @@
       {% include _partials/share/duoshuo_share.html %}
     {% endif %}
   </div>
+  {% if site.disqus.shortname %}
   {% include _partials/comments.html %}
+  {% endif %}
 </div>
