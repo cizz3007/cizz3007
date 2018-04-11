@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fd06a4c-b3a6-438a-aef2-3c6ca642b6d0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots" beforeDir="false" afterPath="$PROJECT_DIR$/robots" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/robots">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -49,11 +50,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="search.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/search.xml">
+      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sitemap.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -116,8 +117,9 @@
         <option value="$PROJECT_DIR$/_includes/_layout.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2014-11-18-gallery-post.md" />
-        <option value="$PROJECT_DIR$/robots" />
         <option value="$PROJECT_DIR$/search.xml" />
+        <option value="$PROJECT_DIR$/robots" />
+        <option value="$PROJECT_DIR$/sitemap.xml" />
       </list>
     </option>
   </component>
@@ -233,12 +235,12 @@
       <workItem from="1523445875542" duration="1730000" />
       <workItem from="1523453577390" duration="65000" />
       <workItem from="1523458707450" duration="4128000" />
-      <workItem from="1523463326810" duration="892000" />
+      <workItem from="1523463326810" duration="1466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7644000" />
+    <option name="totallyTimeSpent" value="8218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -542,20 +544,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/robots">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/googlef1f303eb19f9a74a.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/search.xml">
+    <entry file="file://$PROJECT_DIR$/robots">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
