@@ -380,7 +380,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: comment01
   count: true
   hide: false
   layout: default
