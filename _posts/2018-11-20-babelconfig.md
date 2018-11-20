@@ -14,7 +14,7 @@ tags:
 ---
 
 >  ======================================================================<br>
-    babeldocs [https://babeljs.io/docs/en/configuration](https://babeljs.io/docs/en/configuration)
+babel docs [https://babeljs.io/docs/en/configuration](https://babeljs.io/docs/en/configuration)
    ======================================================================
 
 우리회사는 .babelrc에 babel에 관한 설정을 해왔는데, 한 참 신경을 놓고 있다가 보니
@@ -34,8 +34,7 @@ npm install -D @babel/core @babel/cli @babel/preset-env @babel/polyfill
 ![https://user-images.githubusercontent.com/32691294/48762013-6cb4e980-eced-11e8-8a76-e92d48c331e1.jpg](https://user-images.githubusercontent.com/32691294/48762013-6cb4e980-eced-11e8-8a76-e92d48c331e1.jpg)
 
 
-### 
-이제 .babelrc 보다는 babel.config.js를 쓰자.
+### 이제 .babelrc 보다는 babel.config.js를 쓰자.
 ---
 그다음에는 babel.config.js를 설정해주면 된다. webpack.config.js처럼 root에 위치시켜두자.
 
