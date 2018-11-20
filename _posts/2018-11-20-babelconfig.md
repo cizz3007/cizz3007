@@ -35,7 +35,7 @@ npm install -D @babel/core @babel/cli @babel/preset-env @babel/polyfill
 
 
 ### 이제 .babelrc 보다는 babel.config.js를 쓰자.
----
+___
 그다음에는 babel.config.js를 설정해주면 된다. webpack.config.js처럼 root에 위치시켜두자.
 
 공식홈에서도 babel.config.js를 쓰기를 적극 권장하고 있다.    
