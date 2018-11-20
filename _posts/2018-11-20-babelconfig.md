@@ -29,7 +29,6 @@ ___
 
 ```javascript
 npm install -D @babel/core @babel/cli @babel/preset-env @babel/polyfill
-
 ```
 ![https://user-images.githubusercontent.com/32691294/48762013-6cb4e980-eced-11e8-8a76-e92d48c331e1.jpg](https://user-images.githubusercontent.com/32691294/48762013-6cb4e980-eced-11e8-8a76-e92d48c331e1.jpg)
 
