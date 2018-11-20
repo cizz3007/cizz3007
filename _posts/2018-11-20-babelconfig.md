@@ -14,7 +14,7 @@ tags:
 ---
 
 >  ======================================================================<br>
-    babel docs [https://babeljs.io/docs/en/configuration](https://babeljs.io/docs/en/configuration)
+    babeldocs [https://babeljs.io/docs/en/configuration](https://babeljs.io/docs/en/configuration)
    ======================================================================
 
 우리회사는 .babelrc에 babel에 관한 설정을 해왔는데, 한 참 신경을 놓고 있다가 보니
@@ -25,12 +25,13 @@ babel의 빌드가 벌써 7.1.6까지 나왔다.
 ### NPM으로 먼저 바벨부터 깔자
 ___
 
->7이전 버전이랑은 npm 스트링이 좀 다르다. 예전에는 babel babel-core babel-cli였던 것 같았는데?
+> 7이전 버전이랑은 npm 스트링이 좀 다르다. 예전에는 babel babel-core babel-cli였던 것 같았는데?    
+
 ```javascript
 npm install -D @babel/core @babel/cli @babel/preset-env @babel/polyfill
 
-````
-![https://user-images.githubusercontent.com/32691294/48762013-6cb4e980-eced-11e8-8a76-e92d48c331e1.jpg]
+```
+![https://user-images.githubusercontent.com/32691294/48762013-6cb4e980-eced-11e8-8a76-e92d48c331e1.jpg](https://user-images.githubusercontent.com/32691294/48762013-6cb4e980-eced-11e8-8a76-e92d48c331e1.jpg)
 
 
 ### 
@@ -59,10 +60,11 @@ module.exports = (api) =>{
 ```
 > 현재 폴더 구조
 
-![https://user-images.githubusercontent.com/32691294/48764335-bf44d480-ecf2-11e8-8477-a1c144fd02c4.jpg]
+![https://user-images.githubusercontent.com/32691294/48764335-bf44d480-ecf2-11e8-8477-a1c144fd02c4.jpg](https://user-images.githubusercontent.com/32691294/48764335-bf44d480-ecf2-11e8-8477-a1c144fd02c4.jpg)
 
 이런식이라고 가정하고,
-index.js에 es6이상의 문법을 작성해보자.
+index.js에 es6이상의 문법을 작성해보자
+
 ```javascript
 const a = 'babel';
 
@@ -77,8 +79,8 @@ npx babel index.js --out-dir outputfolder
 ```
 > 결과
 
-![https://user-images.githubusercontent.com/32691294/48764618-82c5a880-ecf3-11e8-9a3a-bd4fe0f6bdd7.jpg]
-![https://user-images.githubusercontent.com/32691294/48764647-91ac5b00-ecf3-11e8-9884-9f534a5f0545.jpg]
+![https://user-images.githubusercontent.com/32691294/48764618-82c5a880-ecf3-11e8-9a3a-bd4fe0f6bdd7.jpg](https://user-images.githubusercontent.com/32691294/48764618-82c5a880-ecf3-11e8-9a3a-bd4fe0f6bdd7.jpg)
+![https://user-images.githubusercontent.com/32691294/48764647-91ac5b00-ecf3-11e8-9884-9f534a5f0545.jpg](https://user-images.githubusercontent.com/32691294/48764647-91ac5b00-ecf3-11e8-9884-9f534a5f0545.jpg)
 
 ```javascript
 //트랜스컴파일된 결과물
