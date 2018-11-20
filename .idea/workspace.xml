@@ -42,14 +42,14 @@
           <entry key="gitignore" value="11" />
           <entry key="js" value="120" />
           <entry key="json" value="57" />
-          <entry key="md" value="1271" />
+          <entry key="md" value="1279" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="57" />
           <entry key="JavaScript" value="121" />
-          <entry key="Markdown" value="1270" />
+          <entry key="Markdown" value="1278" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -61,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-20.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <first_editor relative-caret-position="37">
+                <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -350,12 +350,12 @@
       <workItem from="1526188201181" duration="6020000" />
       <workItem from="1526196771557" duration="527000" />
       <workItem from="1542702949109" duration="1532000" />
-      <workItem from="1542704516387" duration="2895000" />
+      <workItem from="1542704516387" duration="3092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25582000" />
+    <option name="totallyTimeSpent" value="25779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -675,8 +675,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <first_editor relative-caret-position="37">
+            <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
