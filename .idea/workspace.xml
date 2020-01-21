@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fd06a4c-b3a6-438a-aef2-3c6ca642b6d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-21-react-redux1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-21-react-redux1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,12 +128,18 @@
       <workItem from="1526196771557" duration="527000" />
       <workItem from="1542702949109" duration="1532000" />
       <workItem from="1542704516387" duration="3396000" />
-      <workItem from="1579596493734" duration="1075000" />
+      <workItem from="1579596493734" duration="1426000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="945" y="328" width="670" height="676" key="search.everywhere.popup" timestamp="1579597945997">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="945" y="328" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1579597945997" />
   </component>
   <component name="masterDetails">
     <states>
